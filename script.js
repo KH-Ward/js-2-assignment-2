@@ -17,10 +17,12 @@ bobSays = aliceSays;
 carolSays = bobSays;
 danSays = carolSays;
 ellieSays = danSays;
-frankSays = danSays;
-harrySays = ivySays;
+frankSays = ellieSays;
+gregSays = frankSays;
+harrySays = gregSays;
+ivySays = harrySays;
 jackSays = ivySays;
-gregSays = carolSays;
+
 
 
 
